@@ -38,5 +38,3 @@ Download from: https://nodejs.org/
 ```bash
 npm install nodemailer readline-sync chalk
 
----
-
